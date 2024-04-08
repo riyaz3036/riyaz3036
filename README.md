@@ -1,12 +1,13 @@
 <h1 align="center">Hi!! I'm Riyaz Ahmed</h1>
 <h3 align="center">A passionate Web developer from India</h3>
+<p>Hi, I'm Riyaz Ahmed! Passionate about technology and continuous learning, I am on a journey to enhance my programming skills. My primary focus lies in web development, where I explore the ever-evolving landscape of front-end and back-end technologies. With a foundation in programming I bring a strong commitment to growth and a proactive approach to problem-solving. Let's connect! I am always open to discussions on tech trends, coding challenges, and potential collaborations. Feel free to reach out.</p>
 
 - 📫 How to reach me **riyaz.mittu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md riyaz ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md riyaz ahmed" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/riyaz3036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="riyaz3036" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/md-riyaz-ahmed-9450a9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md riyaz ahmed" height="30" width="40" /></a>
+<a href="https://leetcode.com/riyaz36/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="riyaz36" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
