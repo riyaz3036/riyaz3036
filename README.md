@@ -1,5 +1,5 @@
 <h1 align="center">Hi!! I'm Riyaz Ahmed</h1>
-<p>Passionate about technology and continuous learning, I am on a journey to enhance my programming skills. My primary focus lies in web development, where I explore the ever-evolving landscape of front-end and back-end technologies. With a foundation in programming I bring a strong commitment to growth and a proactive approach to problem-solving. Let's connect! I am always open to discussions on tech trends, coding challenges, and potential collaborations. Feel free to reach out.</p>
+<p>Passionate about technology and continuous learning, I am on a journey to enhance my programming skills. My primary focus lies in web development, where I explore the ever-evolving landscape of front-end and back-end technologies. With a foundation in programming I bring a strong commitment to growth and a proactive approach to problem-solving.</p><p> Let's connect! I am always open to discussions on tech trends, coding challenges, and potential collaborations. Feel free to reach out.</p>
 
 - 📫 To reach me **riyaz.mittu@gmail.com**
 
